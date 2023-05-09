@@ -1,3 +1,4 @@
+<%--new line--%>
 <link href="./css/style.css" rel="stylesheet" type="text/css">
 <nav class="navbar navbar-expand-lg navbar-light custom-bg text-light">
     <div class="container">
